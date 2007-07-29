@@ -1,0 +1,10 @@
+CHANGES
+Makefile.PL
+lib/Palm/TreoPhoneCallDB.pm
+MANIFEST
+README
+t/01_data.t
+t/PhoneCallDB.pdb
+t/02_timezone.t
+t/03_incl_raw.t
+META.yml                                 Module meta-data (added by MakeMaker)
